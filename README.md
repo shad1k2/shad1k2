@@ -1,3 +1,7 @@
+![Static Badge](https://img.shields.io/badge/Acer-Aspire%205742g-black?style=plastic&logo=acer&logoColor=%23FFFFF&logoSize=15)
+![Static Badge](https://img.shields.io/badge/Pentium-P6200-blue?style=plastic&logo=Intel&logoColor=%23FFFFF&logoSize=15)
+![Static Badge](https://img.shields.io/badge/Radeon-HD7370-red?style=plastic&logo=Amd&logoColor=%23FFFFF&logoSize=15)
+
 ![](https://www.gentoo.org/assets/img/badges/gentoo-badge.png)
 ![](https://www.gentoo.org/assets/img/badges/gentoo-badge3.png)
 ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)
